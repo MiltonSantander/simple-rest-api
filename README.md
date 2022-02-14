@@ -31,3 +31,6 @@ Start the server
 
 ## Other Dependencies
 * [Node.js (version 14.x is recommended)](https://nodejs.org/en/).
+
+## Demo
+![demo gif](https://github.com/MiltonSantander/simple-rest-api/demo.gif)
