@@ -33,4 +33,4 @@ Start the server
 * [Node.js (version 14.x is recommended)](https://nodejs.org/en/).
 
 ## Demo
-![demo gif](https://github.com/MiltonSantander/simple-rest-api/demo.gif)
+![demo gif](https://github.com/MiltonSantander/simple-rest-api/blob/master/demo.gif?raw=true)
